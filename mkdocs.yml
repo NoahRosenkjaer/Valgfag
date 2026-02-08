@@ -1,0 +1,38 @@
+site_name: IT sikkerhed
+site_url: https://noahrosenkjaer.github.io/
+theme:
+  name: material
+  logo: images/ITsikkerhedLogoRoundCompressed.png
+  favicon: images/ITsikkerhedLogoRoundCompressed.png
+  font:
+    text: JetBrains Mono
+    code: JetBrains Mono
+
+  features:
+  - content.code.copy
+
+  # Dark mode
+  palette:
+    scheme: slate
+    primary: black
+
+markdown_extensions:
+  - pymdownx.details
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.caret
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: false
+  - attr_list
+      
+extra:
+  generator: false
+
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/noah-rosenkj%C3%A6r/
+    - icon: fontawesome/brands/github
+      link: https://github.com/NoahRosenkjaer
