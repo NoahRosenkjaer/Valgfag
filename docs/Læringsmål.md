@@ -24,3 +24,9 @@ Den studerende kan ...
 - Vurderer opsætning af detektering i et system
 - Kombinere tilegnet viden med praksis i eget lab
 - Dokumentere og håndtere hændelser
+
+## Projektets milepæle
+
+|Uge|Milepæl|
+|---|---|
+|||

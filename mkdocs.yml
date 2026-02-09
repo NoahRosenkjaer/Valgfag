@@ -36,3 +36,11 @@ extra:
       link: https://www.linkedin.com/in/noah-rosenkj%C3%A6r/
     - icon: fontawesome/brands/github
       link: https://github.com/NoahRosenkjaer
+
+nav:
+     - Forside: index.md
+     - Læringsmål: Læringsmål.md
+     - Installationsguide: Installationsguide.md
+     - Refleksioner: Refleksioner.md
+     - Litteraturliste: Litteraturliste.md
+     - Bilag: Bilag.md
